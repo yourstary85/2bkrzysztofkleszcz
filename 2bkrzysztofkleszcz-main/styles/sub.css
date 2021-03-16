@@ -1,0 +1,43 @@
+td, th {
+    border: 3px solid;
+    border-color: black;
+}
+
+body {
+    background-color: greenyellow;
+}
+table {
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#tekst {
+    padding-right: 10px;
+    margin-left: 10px;
+}
+
+#pole1 {
+    background-color:orange;
+    margin-top: 50px;
+    overflow: hidden;
+    width: 75%;
+    margin-bottom: 50px;
+}
+#pole2 {
+    background-color:rgb(14, 185, 341);
+    margin-top: 50px;
+    overflow: hidden;
+    width: fit-content;
+}
+#tytultabeli {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+#imie {
+    width: 150px;
+}
+img {
+    height: 300px;
+}

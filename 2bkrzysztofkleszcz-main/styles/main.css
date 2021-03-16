@@ -1,0 +1,60 @@
+body {
+    background-color: greenyellow;
+}
+h1 {
+    color: black;
+    
+}
+#pole1 {
+    background-color:red;
+    width: 40%;
+    height:fit-content;
+    margin-left: 20%;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+#tabela {
+    background-color: yellow;
+    width: 25%;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    height: 300px;
+    margin-left: 20%;
+    float: left;
+    
+}
+#tabela2 {
+    margin-left: 55%;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    width: 25%;
+    background-color: yellow;
+    overflow: hidden;
+    height: 300px;
+}
+#pole2 {
+    background-color:rgb(14, 185, 341);
+    margin-top: 50px;
+    overflow: hidden;
+}
+#pole3 {
+    background-color:orange;
+    margin-top: 50px;
+    overflow: hidden;
+    width: 75%;
+    margin-bottom: 50px;
+}
+#pole4 {
+    background-color:orange;
+    margin-top: 50px;
+    overflow: hidden;
+    width: 75%;
+}
+#historia {
+    color:black;
+}
+#originalcube {
+    width: 35%;
+    height: 35%;
+}
