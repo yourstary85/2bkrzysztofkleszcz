@@ -24,12 +24,16 @@ table {
     overflow: hidden;
     width: 75%;
     margin-bottom: 50px;
+    border: 5px solid #1C6EA4;
+    border-radius: 20px;
 }
 #pole2 {
     background-color:rgb(14, 185, 341);
     margin-top: 50px;
     overflow: hidden;
     width: fit-content;
+    border: 5px solid #1C6EA4;
+    border-radius: 20px;
 }
 #tytultabeli {
     padding-left: 10px;
