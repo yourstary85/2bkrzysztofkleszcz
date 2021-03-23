@@ -36,7 +36,7 @@ h1 {
     overflow: hidden;
     height: 300px;
     border: 5px solid #1C6EA4;
-    border-radius: 40px;
+    border-radius: 5px;
 }
 #pole2 {
     background-color:rgb(14, 185, 341);
@@ -50,7 +50,7 @@ h1 {
     width: 75%;
     margin-bottom: 50px;
     border: 5px solid #1C6EA4;
-    border-radius: 40px;
+    border-radius: 5px;
 }
 #pole4 {
     background-color:orange;
@@ -58,7 +58,7 @@ h1 {
     overflow: hidden;
     width: 75%;
     border: 5px solid #1C6EA4;
-    border-radius: 40px;
+    border-radius: 5px;
 }
 #historia {
     color:black;
